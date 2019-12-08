@@ -9,7 +9,6 @@ UNIs: [sq2221, yz3680]
 
 ## General Information:
 The general features that have been included in this tracker are:
-
 <br> 1. Map that shows the position of each unique squirrel included in the data set </br> 
 <br> 2. Administration management commands that allow importation and exportation of csv file </br> 
 <br> 3. Website feature that allows editing certain aspects of specific choice of squirrel <br> 
@@ -28,7 +27,6 @@ From viewing the map and being able to see/update/edit features of each squirrel
 
 ## Attribution:
 The references for sample codes, html templates and the initial squirrel census data, etc. are attached below: 
-
 <br> Map Html Template by Professor Logston: </br> 
 <br> https://gist.github.com/logston/0b6f2cbb928a386decd63fd616d084dd/revisions </br> 
 <br> The Squirrel Census CSV File: </br> 
