@@ -61,5 +61,5 @@ def stats(request):
     'stats_for_primary_fur_color':stats_for_primary_fur_color,
     'stats_for_tail_twitches':stats_for_tail_twitches,
     }
-    return render(request, 'sightings/stats.html', context)
+    return render(request, 'sightings/format.html', context)
 
