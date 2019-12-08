@@ -1,7 +1,11 @@
 """final URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
+<<<<<<< HEAD
     https://docs.djangoproject.com/en/3.0/topics/http/urls/
+=======
+    https://docs.djangoproject.com/en/2.2/topics/http/urls/
+>>>>>>> 83b18517b996126d929708f41d44fccf92ba3ade
 Examples:
 Function views
     1. Add an import:  from my_app import views
@@ -18,4 +22,8 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+<<<<<<< HEAD
+=======
+    path('', include('sightings.urls'),
+>>>>>>> 83b18517b996126d929708f41d44fccf92ba3ade
 ]
