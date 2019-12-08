@@ -3,7 +3,7 @@
 
 ## Specific Requirements for Homework Submission:
 Group: Project Group 50
-Section: section 1
+<br> Section: section 1 </br>
 UNIs: [sq2221, yz3680]
 
 
