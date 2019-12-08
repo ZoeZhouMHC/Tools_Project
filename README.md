@@ -8,12 +8,13 @@ UNIs: [sq2221, yz3680]
 
 
 ## General Information:
-The general features that have been included in this tracker are: 
-** Map that shows the position of each unique squirrel included in the data set
-*Administration management commands that allow importation and exportation of csv file
-*Website feature that allows editing certain aspects of specific choice of squirrel 
-*Website feature that allows adding in new sample data for squirrels with related features 
-*Website feature that shows statistics for five different aspects in the dataset
+The general features that have been included in this tracker are:
+
+<br> 1. Map that shows the position of each unique squirrel included in the data set </br> 
+<br> 2. Administration management commands that allow importation and exportation of csv file </br> 
+<br> 3. Website feature that allows editing certain aspects of specific choice of squirrel <br> 
+<br> 4. Website feature that allows adding in new sample data for squirrels with related features <br> 
+<br> 5. Website feature that shows statistics for five different aspects in the dataset <br> 
 
 
 ## Sourcer code:
@@ -27,11 +28,18 @@ From viewing the map and being able to see/update/edit features of each squirrel
 
 ## Attribution:
 The references for sample codes, html templates and the initial squirrel census data, etc. are attached below: 
-Map Html Template by Professor Logston https://gist.github.com/logston/0b6f2cbb928a386decd63fd616d084dd/revisions
-The Squirrel Census CSV File https://data.cityofnewyork.us/api/views/vfnx-vebw/rows.csv
-Map Data Contributed by OpenStreetMap https://www.openstreetmap.org/about/
-Examples of ReadMe Files https://github.com/python/cpython/blob/master/README.rst
-https://github.com/pandas-dev/pandas/blob/master/README.md
-https://github.com/tensorflow/tensorflow/blob/master/README.md
-Bootstrap https://getbootstrap.com/docs/4.0/getting-started/introduction/
-Google App Engine Deployment Guide https://docs.google.com/document/d/1YNIAdG6ZKa08KL9Hne94xp_KshCv0i5HzgWcLKAk7J0/
+
+<br> Map Html Template by Professor Logston: </br> 
+<br> https://gist.github.com/logston/0b6f2cbb928a386decd63fd616d084dd/revisions </br> 
+<br> The Squirrel Census CSV File: </br> 
+<br> https://data.cityofnewyork.us/api/views/vfnx-vebw/rows.csv </br> 
+<br> Map Data Contributed by OpenStreetMap:</br> 
+<br> https://www.openstreetmap.org/about/ </br> 
+<br> Examples of ReadMe Files: </br> 
+<br> https://github.com/python/cpython/blob/master/README.rst </br> 
+<br> https://github.com/pandas-dev/pandas/blob/master/README.md </br> 
+<br> https://github.com/tensorflow/tensorflow/blob/master/README.md </br> 
+<br> Bootstrap: </br> 
+<br> https://getbootstrap.com/docs/4.0/getting-started/introduction/ </br> 
+<br> Google App Engine Deployment Guide: </br> 
+<br> https://docs.google.com/document/d/1YNIAdG6ZKa08KL9Hne94xp_KshCv0i5HzgWcLKAk7J0/ </br> 
