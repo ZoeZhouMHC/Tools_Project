@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>General Statistics about Squirrels' Sightings</title>
+</head>
+<body style="background-color:#ff66ff;">
+       <h1>Specific Aspects for Squirrel Sightings</h1>
+           <p style="font-size:160%;"> Statistics for Whether the Squirrel is Climbing </p>
+              {% for values in stats_for_climbing %}
+                 {% for key, val in values.items %}
+		 <p>{{key}}:{{val}}</p>
+	         {% endfor %}
+          {% endfor%}
+
+          <p style="font-size:160%;"> Statistics for Shift </p>
+	  {% for values in stats_for_shift %}
+                 {% for key, val in values.items %}
+                    <p>{{key}}:{{val}}</p>
+                 {% endfor %}
+          {% endfor%}
+
+          <p style="font-size:160%;"> Statistics for Whether the Squirrel is Running </p>
+	  {% for values in stats_for_running %}
+                 {% for key, val in values.items %}
+		 <p>{{key}}:{{val}}</p>
+                 {% endfor %}
+          {% endfor%}
+
+          <p style="font-size:160%;"> Statistics for the Primary Fur Color </p>
+	  {% for values in stats_for_primary_fur_color %}
+                 {% for key, val in values.items %}
+                    <p>{{key}}:{{val}}</p>
+                 {% endfor %}
+          {% endfor%}
+
+          <p style="font-size:160%;"> Statistics for Whether the Tail Twichtes </p>
+	  {% for values in stats_for_tail_twitches %}
+                 {% for key, val in values.items %}
+                    <p>{{key}}:{{val}}</p>
+                 {% endfor %}
+          {% endfor%}
+</body>
+</html>
+
+
