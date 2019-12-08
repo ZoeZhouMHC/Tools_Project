@@ -7,6 +7,7 @@ UNIs: [sq2221, yz3680]
 
 General Information:
 The general features that have been included in this tracker are: 
+
 Map that shows the position of each unique squirrel included in the data set
 Administration management commands that allow importation and exportation of csv file
 Website feature that allows editing certain aspects of specific choice of squirrel 
@@ -15,6 +16,7 @@ Website feature that shows statistics for five different aspects in the dataset
 
 Sourcer code:
 https://github.com/ZoeZhouMHC/Tools_Project
+
 Application Instruction:
 This should not be limited to the data that has been currently imported, but could be generalized to more data(however with similar formats) if you want. 
 From viewing the map and being able to see/update/edit features of each squirrel, you could get a pretty clear insight about this cute little creature specifically around the New York Central Park area. 
