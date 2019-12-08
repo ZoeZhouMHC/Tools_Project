@@ -9,11 +9,11 @@ UNIs: [sq2221, yz3680]
 
 ## General Information:
 The general features that have been included in this tracker are: 
-1/Map that shows the position of each unique squirrel included in the data set
-2/Administration management commands that allow importation and exportation of csv file
-3/Website feature that allows editing certain aspects of specific choice of squirrel 
-4/Website feature that allows adding in new sample data for squirrels with related features 
-5/Website feature that shows statistics for five different aspects in the dataset
+** Map that shows the position of each unique squirrel included in the data set
+*Administration management commands that allow importation and exportation of csv file
+*Website feature that allows editing certain aspects of specific choice of squirrel 
+*Website feature that allows adding in new sample data for squirrels with related features 
+*Website feature that shows statistics for five different aspects in the dataset
 
 
 ## Sourcer code:
