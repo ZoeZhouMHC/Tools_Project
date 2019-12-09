@@ -6,6 +6,8 @@ Group: Project Group 50
 <br> Section: section 1 </br>
 UNIs: [sq2221, yz3680]
 
+## Deployment
+https://tools-for-analytics-254113.appspot.com
 
 ## General Information:
 The general features that have been included in this tracker are:
